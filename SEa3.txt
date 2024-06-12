@@ -1,0 +1,49 @@
+Prompt Engineering
+
+Prompt Engineering is learning how to give the best prompts to the computer to give the suitable feedback.
+In the context of AI and NLP, it is important to get useful and desired feedback. A prompt has three components; The role, details and tasks.
+
+Components of well crafted prompts
+A good prompt has;
+1.Instruction- This is what you are askking the model to do.
+2.Context-here you draw down to specifications of theme and subject matter of the instruction.
+3.Input data-This is what is attached to the model and should be proceesed while giving the output.
+4.Output indicator- Answers the question in what manner do you want the response?
+Example; Consider the Covid-19 pandemic(Context), summarize the number of infections(Instruction) in WHO documents(input) and represent it in a table(output indicator)
+
+Types of prompts
+1.Prompt by example-Here you give an example of how you want the response.
+2.Direct prompting-Giving prompt directly without examples.
+The type of response is either concrete like in prompt by example or verbose by direct prompting.
+
+Prompt Tuning;
+This is specializing a model by updating the model's parameters in some way.
+In an example where you want the model to ask for clrifications before the response, fine tuning will be the best way to go.
+
+Role of context prompts.
+Here you narrow down to how you want the response to appear.
+Ignoring this response might be fillled with irrelevant information.
+
+Ethical considerations in Prompt Engineering
+1.Bias in algorithms, developers should ensure all information can be retrieved without setting constraints.
+2.Data privacy and security- This may adversely affect the user in a case where his/her searches are exposed.
+
+Evaluation of prompts
+A prompt should give the response as epected by the user and having all the key component is key.
+If all the four components are satisfied then, the answers ought to be correct.
+
+Challenges.
+1.Insufficient information- Their database may  not have adequate information to furher our research hence ineffective.
+This should periodically be updated to enhance clarity.
+2.Slow loading- Developers should ensure everything is seamless.
+3.Graphical challenges- developers should ensure pictorial illustration are available even when zero subscription.
+
+Example of a successful prompt
+A calculator is aming the successful prompt ever created. Especially the scientific ones which display mathematical images.
+
+Emerging trends of prompt engineering.
+
+The future is positive. Some of works will require minimal human intervention, especially missions where human survival is at at question. AI has made this work easier. We can see machines being operated at a single press of a button.
+So the future is bright. This is just a start.
+
+
